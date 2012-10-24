@@ -1,4 +1,4 @@
 open-licenses
 =============
 
-Definition open licenses 
+Definition of open licenses 
