@@ -1,8 +1,8 @@
 #document settings
 title: Document Title Here
 description: Document Description
-url: http://path-to-the-github-pages-version
-repo_url: http://github.com/path-to-the-github-repo
+url: http://project-open-data.github.com/open-licenses
+repo_url: https://github.com/project-open-data/open-licenses
 
 # default build settings for running locally, no need to edit
 server: auto
