@@ -23,7 +23,7 @@ The license must not place restrictions on other works that are distributed alon
 The license shall not restrict any party from selling or giving away the work either on its own or as part of a package made from works from many different sources. The license shall not require a royalty or other fee for such sale or distribution.
 
 
-
+*source: [OpenDefinition.org] (http://opendefinition.org/okd/)*
 
 Conformant Licenses
 =========================
