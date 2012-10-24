@@ -33,5 +33,11 @@ The following licenses are conformant with the principles set forth in *Project 
 *Open Data Commons Open Database License (ODbL)*
 * Source: [Open Data Commons ODbl] (http://http://opendatacommons.org/licenses/odbl/)
 
+*Open Data Commons Public Domain Dedication and Licence (PDDL)*
+* Source: [Open Data Commons.org] (http://opendatacommons.org/licenses/pddl/1-0/)
 
-*Additional Examples TBD*
+*Open Data Commons Attribution License*
+* Source: [Open Data Commons.org] (http://opendatacommons.org/licenses/by/1.0/)
+
+*Creative Commons CCZero*
+* Source: [Creative Commons.org] (http://creativecommons.org/publicdomain/zero/1.0/)
