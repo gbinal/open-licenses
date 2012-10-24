@@ -28,7 +28,7 @@ The license shall not restrict any party from selling or giving away the work ei
 Conformant Licenses
 =========================
 
-The following licenses are conformant with the principles set forth in *Project Open Data* *commnet: update with official policy title*:
+The following licenses are conformant with the principles set forth in *Project Open Data*:
 
 *Open Data Commons Open Database License (ODbL)*
 * Source: [Open Data Commons ODbl] (http://http://opendatacommons.org/licenses/odbl/)
