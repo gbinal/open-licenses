@@ -44,6 +44,6 @@ This project constitutes a collaborative work ("open source"). Federal employees
 License
 -------
 
-The project as originally published constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC ยง 105. Subsequent contributions by members of the public, however, retain their original copyright.
+The project as originally published constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC ค 105. Subsequent contributions by members of the public, however, retain their original copyright.
 
 In order to better facilitate collaboration, the content of this project is licensed under the [creative commons 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php). 
