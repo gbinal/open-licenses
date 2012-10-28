@@ -2,9 +2,8 @@
 permalink: /index.html
 layout: home
 ---
-Open Licenses
-=========================
-*DRAFT*
+
+**DRAFT**
 
 Open licenses grant permission to access, re-use and redistribute a work with few or no restrictions. The license must not place restrictions on other works that are distributed along with the licensed work.
 
