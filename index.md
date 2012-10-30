@@ -3,71 +3,40 @@ permalink: /index.html
 layout: home
 ---
 
-**DRAFT**
+Open Licenses
+=================
 
-Open licenses grant permission to access, re-use and redistribute a work with few or no restrictions. The license must not place restrictions on other works that are distributed along with the licensed work.
-
-A liscense is open if its manner of distribution satisfies the following conditions:
-
-**Access**
-
-The work shall be available as a whole and at no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The work must also be available in a convenient and modifiable form.
-*Comment: This can be summarized as ‘social’ openness – not only are you allowed to get the work but you can get it. ‘As a whole’ prevents the limitation of access by indirect means, for example by only allowing access to a few items of a database at a time.*
-
-**Redistribution**
-
-The license shall not restrict any party from selling or giving away the work either on its own or as part of a package made from works from many different sources. The license shall not require a royalty or other fee for such sale or distribution.
+Open licenses grant permission to access, re-use and redistribute a work with few or no restrictions. A license is open if it satisfies the following conditions :
 
 **Reuse**
 
-The license must allow for modifications and derivative works and must allow them to be distributed under the terms of the original work.
-*Comment: Note that this clause does not prevent the use of ‘viral’ or share-alike licenses that require redistribution of modifications under the same terms as the original.*
+The license must allow for modifications and derivative works and must allow them to be distributed under the terms of the original work. The rights attached to the work must not depend on the work being part of a particular package. If the work is extracted from that package and used or distributed within the terms of the work’s license, all parties to whom the work is redistributed should have the same rights as those that are granted in conjunction with the original package.
 
-**Absence of Technological Restriction**
+**Redistribution**
 
-The work must be provided in such a form that there are no technological obstacles to the performance of the above activities. This can be achieved by the provision of the work in an open data format, i.e. one whose specification is publicly and freely available and which places no restrictions monetary or otherwise upon its use.
+The license shall not restrict any party from selling or giving away the work either on its own or as part of a package made from works from many different sources. The license shall not require a royalty or other fee for such sale or distribution. The license may require as a condition for the work being distributed in modified form that the resulting work carry a different name or version number from the original work. The rights attached to the work must apply to all to whom it is redistributed without the need for execution of an additional license by those parties.   The license must not place restrictions on other works that are distributed along with the licensed work. For example, the license must not insist that all other works distributed on the same medium are open. If adaptations of the work are made publicly available, these must be under the same license terms as the original work.  
+
+**No Discrimination Against Persons, Groups or Fields of Endeavor**
+
+The license must not discriminate against any person or group of persons. The license must not restrict anyone from making use of the work in a specific field of endeavor. For example, it may not restrict the work from being used in a business, or from being used for genetic research. 
 
 **Attribution**
 
-The license may require as a condition for redistribution and re-use the attribution of the contributors and creators to the work. If this condition is imposed it must not be onerous. For example if attribution is required a list of those requiring attribution should accompany the work.
+The license must require as a condition for redistribution and re-use the attribution of the contributors and creators to the work, where provided. If this condition is imposed it must not be onerous. For example if attribution is required a list of those requiring attribution should accompany the work. 
 
-**Integrity**
-
-The license may require as a condition for the work being distributed in modified form that the resulting work carry a different name or version number from the original work.
-
-**No Discrimination Against Persons or Groups**
-
-The license must not discriminate against any person or group of persons.
-*Comment: In order to get the maximum benefit from the process, the maximum diversity of persons and groups should be equally eligible to contribute to open knowledge. Therefore we forbid any open-knowledge license from locking anybody out of the process.*
+Example Licenses
+-----------------
+The following licenses can help agencies conform with the above principles:
+* *Creative Commons BY (Attribution)* 
+* *Creative Commons BY-SA (Share-Alike)* 
 
 
-**No Discrimination Against Fields of Endeavor**
-
-The license must not restrict anyone from making use of the work in a specific field of endeavor. For example, it may not restrict the work from being used in a business, or from being used for genetic research.
-*Comment: The major intention of this clause is to prohibit license traps that prevent open material from being used commercially. We want commercial users to join our community, not feel excluded from it.*
 
 
-**Distribution of License**
-
-The rights attached to the work must apply to all to whom it is redistributed without the need for execution of an additional license by those parties.
-*Comment: This clause is intended to forbid closing up knowledge by indirect means such as requiring a non-disclosure agreement.*
+--------------------------
 
 
-**License Must Not Be Specific to a Package**
-
-The rights attached to the work must not depend on the work being part of a particular package. If the work is extracted from that package and used or distributed within the terms of the work’s license, all parties to whom the work is redistributed should have the same rights as those that are granted in conjunction with the original package.
-
-
-**License Must Not Restrict the Distribution of Other Works**
-
-The license must not place restrictions on other works that are distributed along with the licensed work. For example, the license must not insist that all other works distributed on the same medium are open.
-*Comment: Distributors of open knowledge have the right to make their own choices. Note that ‘share-alike’ licenses are conformant since those provisions only apply if the whole forms a single work.*
-
-
-Conformant Licenses
-=========================
-
-The following licenses are conformant with the principles set forth in *Project Open Data*:
+*Additional licenses under evaluation*
 
 *Open Data Commons Open Database License (ODbL)*
 * Source: [Open Data Commons ODbl] (http://http://opendatacommons.org/licenses/odbl/)
@@ -77,6 +46,3 @@ The following licenses are conformant with the principles set forth in *Project 
 
 *Open Data Commons Attribution License*
 * Source: [Open Data Commons.org] (http://opendatacommons.org/licenses/by/1.0/)
-
-*Creative Commons CCZero*
-* Source: [Creative Commons.org] (http://creativecommons.org/publicdomain/zero/1.0/)
